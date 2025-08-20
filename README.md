@@ -32,7 +32,7 @@ Somewhere between balancing molecules and coding, I got hooked on building cool 
 <a href="https://shubhraj-portfolio-eosin.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-<a href="https://drive.google.com/file/d/1jPKGTawLLVf2VNgU-4j2CWn4njdUt2m-/view" target="_blank">
+<a href="https://drive.google.com/file/d/1oFmCYZGZgbRKi98dpJSJMTAucn-0N-li/view" target="_blank">
   <img src="https://img.shields.io/badge/Resume-FFD700?style=for-the-badge&logo=readme&logoColor=black"/>
 </a>  
 
